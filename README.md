@@ -1,5 +1,10 @@
 # Understanding Email Validation Regex
 
+Github Gist Link
+
+https://gist.github.com/sagagi74/cd6a2f2bea6c26dad79cadd4d41cfe8d
+
+
 ## Introductory
 
 The purpose of this tutorial is to explain what regex is and how it can be used to match an email. We'll be using the following regex for matching an email:
